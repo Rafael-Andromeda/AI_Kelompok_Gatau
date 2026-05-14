@@ -1,26 +1,11 @@
-# PRAK-PROGWEB
+AI - BOT CHAT TELEGRAM
 
-! CAUTION !
-- KERJAKAN DI BRANCH MASING-MASING
-- COMMIT MERGE HANYA KALAU SUDAH FIX JADI
+INGAT 1 ORANG MENGERJAKAN 1 BAGIAN
 
-COLOR PALLET
-Palet Hijau (Asli)
-#1B4332
-#2D6A4F
-#40916C
-#95D5B2
-#D8F3DC
-#F8F9FA
-#FFFFFF
-Tambahan Coklat Pohon
-#5C4033
-#7F5539
-#A47148
-#3E2723
-Kombinasi Utama
-Primary: #2D6A4F
-Secondary: #95D5B2
-Accent (coklat): #7F5539
-Dark: #1B4332 / #3E2723
-Background: #F8F9FA / #FFFFFF
+FILE YANG DIBUTUHKAN ADALAH SEBAGAI BERIKUT :
+
+- database (sebagai wadah menampung kegiatan yang di input)
+- handlers (sebagai sistem penanganan semua logic chat sistem)
+- scheduler (untuk mengatur jadwal yang di input)
+- main (sebagai program utama yang mengeksekusi seluruh program ke bot telegram)
+- requirements.txt (library utama semua program chat bot yang digunakan)
